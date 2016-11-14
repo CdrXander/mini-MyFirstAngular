@@ -1,4 +1,12 @@
-1* {
+* {
 	box-sizing: border-box;
 	overflow: auto;
+}
+
+body {
+}
+
+.naughty {
+	color: lightgray;
+	text-decoration: line-through;	
 }

@@ -5,6 +5,21 @@
 //	=	=	=	=	=	=	=	=	=	=	=	=	=
 
 angular.module('friendsList').controller('mainCtrl', function($scope) {
-	$scope.friends = ['Riley','Marissa','Adam','Ammon','Jamie','Reina'];
-});
+	
+	$scope.name = "The Dread Emperor: Xandar the Terrible";
+	$scope.friends = [{name:'Riley'},{name:'Marissa'},{name:'Adam'},{name:'Ammon'},{name:'Jamie'},{name:'Reina'}];
+
+
+	$scope.addFriend = function(){
+		var newFriend = {name:$scope.newFriend}
+		$scope.friends.push(newFriend);
+		$scope.newFriend = "";
+	}
+
+
+	$scope.toggleGoodness = function(friendObj) {
+		friendObj.isNaughty = !friendObj.isNaughty;
+	}
+
+	});
 

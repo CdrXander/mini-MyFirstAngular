@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"firend",
+				"friend_count"
+			],
+			[
+				"sort",
+				"sortDirection"
+			],
+			[
+				"frie",
+				"friendFilter"
+			],
+			[
+				"frien",
+				"friendFilter"
+			],
+			[
+				"fri",
+				"friendFilter"
+			],
+			[
+				"tw",
+				"tweetContent"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"USER_",
+				"USER_FULL_NAME"
+			],
+			[
+				"Char",
+				"char_count"
+			],
+			[
+				"char",
+				"char_count"
+			],
+			[
+				"tweet",
+				"tweet-compose"
+			],
+			[
+				"ht",
+				"htLrg"
+			],
+			[
+				"twe",
+				"tweet-compose"
+			],
+			[
+				"new",
+				"newList"
+			],
+			[
+				"ne",
+				"newList"
+			],
+			[
+				"li",
+				"listo"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"tas",
+				"task"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"todoI",
+				"todoItem"
+			],
+			[
+				"todo",
+				"todoInput"
+			],
+			[
+				"input",
+				"inputText"
+			],
+			[
+				"publi",
+				"publicMethod"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"card",
+				"cardNumber"
+			],
+			[
+				"sec",
+				"securityCode"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"metho",
+				"methodCollection"
+			],
+			[
+				"user",
+				"user1"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"back",
+				"backPack"
+			],
+			[
+				"fo",
+				"food"
+			],
+			[
+				"favo",
+				"favoriteThings"
+			],
+			[
+				"count",
+				"countVar"
+			],
+			[
+				"make",
+				"makeCounter"
+			],
+			[
+				"callF",
+				"callFriend"
+			],
+			[
+				"colum",
+				"column-count"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"column",
+				"column-gap"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"fle",
+				"flex-flow"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/X/Development/devmtn/lecture_notes/AngularJS/demo_project_one/index.html",
+			"settings":
+			{
+				"buffer_size": 1107,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "proje",
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"set syntax: jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"packagecontrol:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"save project",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/X/Development/devmtn/class_projects/Angular/mini-MyFirstAngular"
+	],
+	"file_history":
+	[
+		"/X/Development/devmtn/class_projects/Angular/mini-MyFirstAngular/index.html",
+		"/X/Development/devmtn/class_projects/Angular/mini-MyFirstAngular/styles.css",
+		"/X/Development/devmtn/class_projects/Angular/mini-MyFirstAngular/js/app.js",
+		"/X/Development/devmtn/class_projects/Angular/angular-friends/friend-data.json",
+		"/X/Development/devmtn/class_projects/Angular/mini-MyFirstAngular/js/mainCtrl.js",
+		"/X/Development/devmtn/class_projects/Angular/styles.css",
+		"/C/Users/xackh/AppData/Roaming/Sublime Text 3/Packages/HTML/Snippets/html.sublime-snippet",
+		"/C/Users/xackh/AppData/Roaming/Sublime Text 3/Packages/HTML/Snippets/html (begin tag).sublime-snippet",
+		"/X/Development/devmtn/class_projects/JQuery/twitter-clone/index.html",
+		"/X/Development/devmtn/class_projects/JQuery/twitter-clone/js/animations.js",
+		"/X/Development/devmtn/class_projects/JQuery/twitter-clone/css/styles.css",
+		"/X/Development/devmtn/toy_problems/nov_10_16.js",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/index.html",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/app/scripts/scripts.js",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/styles/views/landing.css",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/styles/base/reset.css",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/styles/base/animation.js",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/styles/base/fonts.css",
+		"/X/Development/devmtn/toy_problems/nov_9_16.js",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/project2/app.js",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/project2/index.html",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/todo/index.html",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/styles.css",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/todo.js",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/index.html",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/index2.html",
+		"/X/Development/devmtn/class_projects/JQuery/jQuery2/scripts/todo.js",
+		"/X/Development/devmtn/class_projects/JavaScript/JS-Closures/test/spec/ClosuresSpec.js",
+		"/X/Development/devmtn/class_projects/JavaScript/JS-Closures/closures.js",
+		"/X/Development/devmtn/lecture_notes/8-8-16_keyword-this.js",
+		"/X/Development/devmtn/class_projects/JavaScript/the-keyword-this/practice.js",
+		"/C/Users/xackh/AppData/Roaming/Sublime Text 3/Packages/User/css_custom.sublime-snippet",
+		"/X/Development/devmtn/lecture_notes/11-11-15_jQuery/11-10-15_jQuery.html",
+		"/X/Development/devmtn/lecture_notes/11-10-15_jQuery.html",
+		"/X/Development/devmtn/toy_problems/nov_8_16.js",
+		"/X/Development/devmtn/class_projects/JavaScript/object-fiddles/practice.js",
+		"/X/Development/devmtn/class_projects/JavaScript/JS-Arrays/arraysPractice.js",
+		"/X/Development/devmtn/toy_problems/day_6.js",
+		"/X/Development/devmtn/class_projects/HTML_Layout/HTML_Layouts_2/second/main.css",
+		"/X/Development/devmtn/class_projects/HTML_Layout/HTML_Layouts_2/second/index.html",
+		"/X/Development/devmtn/lecture_notes/Day_4 flexboxmedia_query/media_query.css",
+		"/X/Development/devmtn/class_projects/HTML_Layout/HTML_Layouts_2/third/main.css",
+		"/X/Development/devmtn/class_projects/HTML_Layout/HTML_Layouts_2/third/index.html",
+		"/C/Users/xackh/AppData/Roaming/Sublime Text 3/Packages/User/hipster_ipsum.sublime-snippet",
+		"/X/Development/devmtn/prac_demos/potential-chainsaw/index.html",
+		"/X/Development/devmtn/reference_notes/examples.css",
+		"/X/Development/devmtn/lecture_notes/Day_4 flexboxmedia_query/media_query.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"script",
+			"option",
+			"#new",
+			"new",
+			"finish"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/X/Development/devmtn/lecture_notes/AngularJS/demo_project_one/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										62,
+										67
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										54,
+										59
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Agila Monokai Extended.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "first-angular.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
